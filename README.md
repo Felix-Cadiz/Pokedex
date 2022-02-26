@@ -15,7 +15,9 @@ A fan made Pokedex from the Pokemon universe. Modeled after the first generation
 
 # Credits
 Felix Cadiz
+
 https://github.com/Felix-Cadiz
+
 https://www.linkedin.com/in/felix-cadiz/
 
 # License
